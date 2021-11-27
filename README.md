@@ -1,0 +1,2 @@
+# LinkScheduler
+This project aims to make your life a bit easier. In these times, when everything is being digital from studying from home to working from home. For that you have separate links for every meeting and managing those links is a bit difficult. Instead, this project will do that for you, all your meetings with specific links will be managed by this project for you and you will no longer need to use multiple apps for that
